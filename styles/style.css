@@ -61,6 +61,7 @@ html {
 
 .characteristics {
   margin-bottom: 50px;
+  padding: 0 30px 30px 20px;
 }
 
 .characteristics h2 {
@@ -75,8 +76,9 @@ html {
 
 .container {
   display: flex;
-  flex-direction: row;
   justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
   margin: 20px 5px 10px 5px;
 }
 
